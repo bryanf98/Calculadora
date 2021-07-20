@@ -36,4 +36,6 @@ public class Calculator {
     public void setAnswer(int answer) {
         this.answer = answer;
     }
+
+
 }
