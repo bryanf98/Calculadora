@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="ec.edu.epn.git.calculator.CalculatorTest" time="0.079" errors="0" skipped="0">
+<testsuite tests="4" failures="0" name="ec.edu.epn.git.calculator.CalculatorTest" time="0.193" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2021.1.3"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -59,8 +59,8 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="ec.edu.epn.git.calculator.CalculatorTest" name="timeout" time="0.077"/>
+  <testcase classname="ec.edu.epn.git.calculator.CalculatorTest" name="timeout" time="0.192"/>
   <testcase classname="ec.edu.epn.git.calculator.CalculatorTest" name="addition" time="0"/>
-  <testcase classname="ec.edu.epn.git.calculator.CalculatorTest" name="substraction" time="0.001"/>
+  <testcase classname="ec.edu.epn.git.calculator.CalculatorTest" name="substraction" time="0"/>
   <testcase classname="ec.edu.epn.git.calculator.CalculatorTest" name="division" time="0.001"/>
 </testsuite>
